@@ -14,9 +14,9 @@ function AboutCard() {
             I’m currently working as a{" "}
             <span className="purple">Full Stack Developer</span> at{" "}
             <span className="purple">Hb Development</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
+            <br />I hold Bachelor's degree in{" "}
             <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">The Faculty of science, Abdelmalek Essaadi "</span>.
+            <span className="purple">" The Faculty of science, Abdelmalek Essaadi "</span>.
             <br />
             <br />
             Outside of coding, I love engaging in activities that keep me
